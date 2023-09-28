@@ -18,4 +18,4 @@ A simple android app to demonstrate the UI of a simple travel app.
 
 Release -> https://i.diawi.com/89Lzna
 
-
+Download from Gihub Dir -> https://github.com/prateekgaurr/MakeMyTrip/blob/master/app/release/app-release.apk
